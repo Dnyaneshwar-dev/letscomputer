@@ -1,0 +1,57 @@
+div{
+	margin:100px 100px;
+	font-size: 30px
+}
+li{
+	padding: 10px;
+	font-size: 30px;
+}
+p{
+	font-size:30px;
+}
+h2
+{
+	color:#ff0000;
+}
+button
+{
+	size: 100px;
+}
+#content
+{
+	text-align: center;
+	padding-top: 15%;
+}
+hr
+{
+	
+}
+a:hover {
+	size: 20px;
+  background-color: #ddd;
+  color: black;
+}
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+  margin-left: 10%;
+}
+button
+{
+	margin-left: 25%;
+	size: 100px;
+}
+.btn
+{
+	height: 50px;
+	width:500px;
+	margin-left: 30%;
+	text-transform: uppercase;
+}
+#home,#menu
+{
+	width:100px;
+	color: red;
+	margin-left: 10%;
+	margin-top: 1%;
+}

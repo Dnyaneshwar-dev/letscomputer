@@ -1,0 +1,38 @@
+body { 
+  background: url(https://image.freepik.com/free-vector/concept-smart-urban-city-with-server-room-database-icons-data-center-database_39422-628.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+div
+{
+	color: white;
+	filter: brightness(100%);
+	margin-left: 30%;
+	margin-right: 30%;
+}
+.container
+{
+	color: red;
+}
+#mybutton
+{
+	color: white;
+}
+img
+{
+	align-content: center;
+	margin-left: 25%;
+}
+iframe
+{
+	margin-left: 15%;
+	object-fit: cover;
+}
+#video
+{
+	margin-left: 20%;
+	color: red;
+	text-transform: uppercase;
+}

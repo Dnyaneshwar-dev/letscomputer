@@ -1,0 +1,23 @@
+{
+  "name": "letscomputer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnyaneshwar-dev/letscomputer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dnyaneshwar-dev/letscomputer/issues"
+  },
+  "homepage": "https://github.com/Dnyaneshwar-dev/letscomputer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
